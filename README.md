@@ -18,4 +18,4 @@ Minecraft? 0.30? We all don't care.
 
 
 ## What is Minecraft?
-Minecraft is a sandbox game made my notch.
+Minecraft is a sandbox game made by notch.
